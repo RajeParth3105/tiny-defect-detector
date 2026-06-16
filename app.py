@@ -48,7 +48,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # 1. Global Configurations
-MODEL_PATH = r"C:\Users\abhij\AntigravityProjects\defect_detector\defect_model.pth"
+MODEL_PATH = "defect_model.pth"
 CLASS_NAMES = ['Crazing', 'Inclusion', 'Patches', 'Pitted', 'Rolled', 'Scratches']
 
 # Initialize GPU/CPU Device

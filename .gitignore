@@ -1,5 +1,6 @@
 # PyTorch / Machine Learning models
-*.pth
+# Allow defect_model.pth to be uploaded
+# *.pth
 *.pt
 
 # Kaggle files
