@@ -1,0 +1,18 @@
+# PyTorch / Machine Learning models
+*.pth
+*.pt
+
+# Kaggle files
+download_dataset.py
+.kaggle/
+kaggle.json
+
+# Local dataset folders
+NEU Metal Surface Defects Data/
+
+# Python Virtual Environments & temporary files
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.streamlit/
